@@ -1,0 +1,29 @@
+/* .add-team-player {
+    max-width: 100%;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    background-color:#232323;
+    padding: 20px 50px;
+    border-radius: 15px;
+} */
+
+.add-team-player input.form-control {
+    margin: 20px 0;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.add-team-player .btn {
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 25px;
+    height: 50px;
+    color: #232323;
+    background-color: #E8CB69;
+    max-width: 100%;
+    width: 100%;
+}
+
+

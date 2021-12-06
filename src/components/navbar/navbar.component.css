@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 20px;
+}
+
+li {
+    padding: 0 10px;
+}
+
+li a {
+    color: #E8CB69;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #fff;
+}

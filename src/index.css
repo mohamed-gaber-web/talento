@@ -5,9 +5,36 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #404040;
+  overflow-x: hidden;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+.btn-success {
+    background-color: #9FFF9F;
+    color: #232323;
+    font-weight: 600;
+}
+
+.btn-danger {
+    background-color: #F79C9C;
+    color: #232323;
+    font-weight: 600;
+}
+
+.talento-button{
+  background-color: #232323;
+  border: 1px solid #E8CB69;
+  width: 250px;
+  max-width: 100%;
+  height: 70px;
+  border-radius: 50px;
+  color: #E8CB69;
+  font-size: 18px;
+  margin: 10px 20px;
 }

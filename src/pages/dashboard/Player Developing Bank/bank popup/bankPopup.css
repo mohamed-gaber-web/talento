@@ -1,0 +1,44 @@
+.bank-player-card h3 {
+    font-size: 16px;
+    color: #fff;
+}
+
+.bank-player-card-block {
+    margin: 20px 0 150px 0;
+    background-color: #404040;
+    border: 1px solid #707070;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.bank-player-card-block img {
+    width: 200px;
+    height: 120px;
+    padding-right: 10px;
+    margin-top: 15px;
+}
+
+.bank-player-card-block{color: #fff; text-align: left}
+
+.bank-player-card-block p{ font-size: 14px; }
+
+
+.bank-player-card-block .bank-player-title {margin-top: 15px;}
+
+.bank-player-card-block .bank-player-time {
+    font-size: 18px;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.card-border {
+    border-right: 1px solid #E8CB69;
+}
+
+.bank-card-btn button {
+    margin: 0 10px;
+    border-radius: 20px;
+    font-size: 15px;
+}

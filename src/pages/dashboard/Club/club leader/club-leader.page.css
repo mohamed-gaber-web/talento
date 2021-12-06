@@ -1,0 +1,37 @@
+.club-leader table {
+    background-color: #232323;
+    border: 2px solid #E8CB69;
+    color: #fff;
+}
+
+.club-leader table tr {
+    border: 1px solid #E8CB69;
+}
+
+.club-leader thead{
+    line-height: 35px;
+}
+
+.club-leader .table>:not(:first-child){
+    border: 1px solid #E8CB69;
+}
+
+.club-leader table .btn {
+    font-size: 12px;
+    border-radius: 20px;
+    padding: 6px 25px;
+    width: 130px;
+    max-width: 100%;
+}
+
+.club-leader table .btn:hover{
+    background-color: auto!important;
+}
+
+.club-leader .btn-option button {
+    background-color: #232323;
+    color: #fff;
+    width: 100px;
+    border-radius: 20px;
+    margin: 0 15px;
+}

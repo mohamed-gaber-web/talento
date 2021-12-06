@@ -1,0 +1,19 @@
+.player-week .btn-option .btn {
+    font-size: 12px;
+    border-radius: 20px;
+    padding: 6px 25px;
+    width: 130px;
+    max-width: 100%;
+}
+
+.player-week .btn-option .btn:hover{
+    background-color: auto!important;
+}
+
+.player-week .btn-option button {
+    background-color: #232323;
+    color: #fff;
+    width: 100px;
+    border-radius: 20px;
+    margin: 0 15px;
+}

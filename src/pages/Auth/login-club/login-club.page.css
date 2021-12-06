@@ -1,0 +1,29 @@
+.login_club {
+    max-width: 90%;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.login_club input.form-control {
+    margin: 20px 0;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.login_club .btn {
+    background-color: #404040;
+    color: #E8CB69;
+    font-size: 30px;
+    font-weight: bold;
+    width: 100%;
+    border-radius: 15px;
+    border: 1px solid #707070;
+    transition: all 0.3s ease-in-out;
+}
+
+.login_club .btn:hover {
+    background-color: #E8CB69!important;
+    color: #232323!important;
+}

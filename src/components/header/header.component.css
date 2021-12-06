@@ -1,0 +1,15 @@
+.header {
+    background-color: #000;
+    border-bottom: 3px solid #e8cb69;
+    padding: 20px 0;
+}
+
+.header p, h3 {
+    font-size: 25px;
+    color: #e8cb69;
+    margin-top: 15px;
+}
+
+.header .logo-img img {
+    max-width: 60%;
+}

@@ -1,0 +1,45 @@
+.team-profile {
+    max-width: 100%;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    background-color:#232323;
+    padding: 20px 50px;
+    border-radius: 15px;
+}
+
+.team-profile input.form-control {
+    margin: 20px 0;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.team-profile .btn {
+    font-size: 14px;
+    font-weight: bold;
+    width: 150px;
+    max-width: 100%;
+    border-radius: 25px;
+    height: 50px;
+    color: #232323;
+}
+
+.team-profile .profile-btn .btn-success {
+    background-color: #9FFF9F;
+}
+
+.team-profile .profile-btn .btn-danger {
+    background-color: #F79C9C;
+}
+
+.team-profile .btn:hover {
+    background-color: auto!important;
+
+}
+
+.team-profile .profile-btn {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}

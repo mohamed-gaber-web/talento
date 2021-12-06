@@ -1,0 +1,37 @@
+.my-team table {
+    background-color: #232323;
+    border: 2px solid #E8CB69;
+    color: #fff;
+}
+
+.my-team table tr {
+    border: 1px solid #E8CB69;
+}
+
+.my-team thead{
+    line-height: 35px;
+}
+
+.my-team .table>:not(:first-child){
+    border: 1px solid #E8CB69;
+}
+
+.my-team table .btn {
+    font-size: 12px;
+    border-radius: 20px;
+    padding: 6px 25px;
+    width: 130px;
+    max-width: 100%;
+}
+
+.my-team table .btn:hover{
+    background-color: auto!important;
+}
+
+.my-team .btn-option button {
+    background-color: #232323;
+    color: #fff;
+    width: 100px;
+    border-radius: 20px;
+    margin: 0 15px;
+}

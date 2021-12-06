@@ -1,0 +1,45 @@
+.club-leader-profile {
+    max-width: 100%;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    background-color:#232323;
+    padding: 20px 50px;
+    border-radius: 15px;
+}
+
+.club-leader-profile input.form-control {
+    margin: 20px 0;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.club-leader-profile .btn {
+    font-size: 14px;
+    font-weight: bold;
+    width: 150px;
+    max-width: 100%;
+    border-radius: 25px;
+    height: 50px;
+    color: #232323;
+}
+
+.club-leader-profile .profile-btn .btn-success {
+    background-color: #9FFF9F;
+}
+
+.club-leader-profile .profile-btn .btn-danger {
+    background-color: #F79C9C;
+}
+
+.club-leader-profile .btn:hover {
+    background-color: auto!important;
+
+}
+
+.profile-btn {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}

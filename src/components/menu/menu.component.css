@@ -1,0 +1,37 @@
+.css-1mcnwpj-MuiList-root {
+    position: fixed!important;
+    background-color: #232323!important;
+    height: 100%;
+    overflow: hidden;
+}
+
+Link {
+    text-align: center;
+}
+
+a {
+    color: #E8CB69;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root {
+
+    border-bottom: 1px solid#E8CB69!important;
+    font-size: 18px!important;
+    padding: 20px!important;
+    text-align: center!important;
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+    color: #fff!important;
+}
+
+/* .css-1mk9mw3-MuiList-root {
+    height: 300px!important;
+    overflow: auto!important;
+} */
